@@ -14,3 +14,5 @@ Hello GIT!
 Hello GIT!
 
 确实不错~
+
+gitee update
